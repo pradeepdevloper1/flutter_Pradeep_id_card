@@ -1,0 +1,7 @@
+echo "# flutter_Pradeep_id_card" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin31 https://github.com/pradeepdevloper1/flutter_Pradeep_id_card.git
+git push -u origin31 master
